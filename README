@@ -99,3 +99,6 @@ To debug what is going on, add the following line to your httpd.conf
 to enable debug messages to be written to the apache error log file:
 
 LogLevel debug
+
+#### why am i doing this
+https://www.samba.org//ftp/unpacked/lorikeet/mod_auth_ntlm_winbind/
